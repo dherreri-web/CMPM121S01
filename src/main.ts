@@ -9,7 +9,7 @@ console.log("🎮 CMPM 121 - Starting...");
 let counter: number = 0;
 
 // Create basic HTML structure
-document.body.innerHTML= `
+document.body.innerHTML = `
   <h1>CMPM 121 Project</h1>
   <p>Counter: <span id="counter">0</span></p>
   <button id="increment">Click Me!</button>
